@@ -17,5 +17,12 @@ URL-shorteners are built into multiple different social-media aggregation and ma
 Build a social-media aggregation tool on par with those available. Such a tool could be customizable and utlize pre-existing APIs for each platform. Some historical context on each channel might be sacraficed based on the current rules for API utilization (ie: Youtube), though this is a minor consideration when viewed in light of the cost. 
 
 *Why:*
+
 Working at a global tech company, it is highly possible to develop this kind of software, though it would be a large undertaking. However, the infrastructure needed to develop a platform at such a scale as needed is entirely possible given the current infrastructure. Additionally, I've been able to replicate multple pieces of the existing platforms with little effort, the reload and url-shortening functions as examples of this. 
 
+## To replicate:
+
+- Install XAMPP on your local machine
+- `cd` into your local directory where `htdocs` is found and clone the repo into that. 
+- From the command line enter `sudo /opt/lampp/lampp start` (if using Linux)
+- Navigate to localhost to view changes and begin using the app. 
