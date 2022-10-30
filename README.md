@@ -1,6 +1,6 @@
 # URL SHORTENER APP
 
-![A GM bot](https://github.com/AngelLozan/Discord-GM-bot/blob/master/gm.jpeg?raw=true)
+![A GM bot](https://github.com/AngelLozan/URL-shortener/blob/main/url.png?raw=true)
 
 An application developed using php, javascript and a local xampp server. Developed on Linux Ubuntu on a home-built computer. 
 
